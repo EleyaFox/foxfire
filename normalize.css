@@ -1,5 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  overflow-y: scroll;
+}
+
 html {
   font-family: 'Dosis', sans-serif;
+}
+
+body {
+  margin: 16px;
+}
+
+@media (min-width: 768px) {
+  body {
+    margin: 32px;
+  }
 }
 
 h1 {
