@@ -39,4 +39,5 @@ nav ul li {
 
 .characters img {
   max-height: 200px;
+  object-fit: contain;
 }
