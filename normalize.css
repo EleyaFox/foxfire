@@ -3,12 +3,12 @@
 }
 
 html, body {
-  overflow-y: scroll;
   margin: 0;
   padding: 0;
 }
 
 html {
+  overflow-y: scroll;
   font-family: 'Dosis', sans-serif;
 }
 
