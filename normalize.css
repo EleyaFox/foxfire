@@ -1,6 +1,10 @@
 html {
 }
 
+h2, h3, p {
+  font-family: 'Dosis', sans-serif;
+}
+
 h1.title {
   color: #FFB6C1;
 }
