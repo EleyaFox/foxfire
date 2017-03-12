@@ -14,6 +14,7 @@ html {
 
 body {
   padding: 16px;
+  background: seashell;
 }
 
 @media (min-width: 768px) {
