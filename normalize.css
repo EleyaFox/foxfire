@@ -19,9 +19,13 @@ img {
 
 nav ul {
   list-style-type: none;
+  padding: 0;
 }
 
 nav ul li {
     background: springgreen;
     border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
 }
