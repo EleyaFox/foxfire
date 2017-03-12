@@ -4,3 +4,16 @@ html {
 h1.title {
   color: #FFB6C1;
 }
+
+.columns {
+  display: flex;
+}
+
+.columns > * {
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
